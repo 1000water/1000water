@@ -6,6 +6,14 @@
 
 - 《变量 Variables》
 - 《电竞教父 Esports Godfather》
+# 千水 / 1000water
+
+🎮 独立游戏设计师 Indie game designer
+
+**作品 Works**
+
+- 《变量 Variables》
+- 《电竞教父 Esports Godfather》
 
 🤖 building **Nebula** — a self-evolving AI agent framework（Rust + axum · React + TypeScript）
 
