@@ -1,3 +1,18 @@
+# 你好，我是千水 👋 · Hi, I'm Qianshui
+
+🎮 独立游戏设计师 Indie game designer —— 和我的 AI Agent 伙伴们一起做游戏
+🤖 构建 **Nebula**：自进化的个人 Agent 运行时（Rust + axum · React + TypeScript）
+🛠 常用技术：Rust · TypeScript · React · Godot · SQLite / Neo4j
+🗣 语言：中文 / English
+
+## 🔭 正在做 / Now
+
+- 若干独立游戏项目（策略 / 自走棋 / 模拟经营）
+- 多 Agent 协作工作流与 Agent 工程化
+- 游戏美术生产管线自动化
+
+> 让 Agent 成为队友，而不是工具。
+> Make agents teammates, not tools.
 ## Hi there 👋
 
 <!--
