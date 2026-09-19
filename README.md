@@ -1,3 +1,15 @@
+# 千水 / 1000water
+
+🎮 独立游戏设计师 Indie game designer
+
+**作品 Works**
+
+- 《变量 Variables》
+- 《电竞教父 Esports Godfather》
+
+🤖 building **Nebula** — a self-evolving AI agent framework（Rust + axum · React + TypeScript）
+
+> 让 Agent 成为队友，而不是工具。Make agents teammates, not tools.
 # 你好，我是千水 👋 · Hi, I'm Qianshui
 
 🎮 独立游戏设计师 Indie game designer —— 和我的 AI Agent 伙伴们一起做游戏
